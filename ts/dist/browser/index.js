@@ -1,0 +1,1 @@
+var print;print=(()=>{"use strict";var e={213:(e,t)=>{Object.defineProperty(t,"__esModule",{value:!0}),t.default={name:"张三",age:20}},28:(e,t,r)=>{const n=r(213);t.default={print:e=>{console.log(e||n.default)}}}},t={};return function r(n){if(t[n])return t[n].exports;var o=t[n]={exports:{}};return e[n](o,o.exports,r),o.exports}(28)})().default;
